@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 moi vakka
 lisää asioita mitä pitää kirjoittaa :(
+=======
+moi vaikka
+>>>>>>> 2491da443a1ee662a1cc6c502f8451dd3468045f
